@@ -1,0 +1,10 @@
+{
+  "buildCommand": "",
+  "devCommand": "echo 'No build needed'",
+  "env": [],
+  "framework": null,
+  "name": "portfolio",
+  "outputDirectory": ".",
+  "cleanUrls": true,
+  "trailingSlash": false
+}
